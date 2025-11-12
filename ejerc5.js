@@ -1,0 +1,1 @@
+document.getElementById("numero").innerHTML="<h2> Mi número favorito es: 5</h2>";
