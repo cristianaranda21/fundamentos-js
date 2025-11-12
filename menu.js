@@ -1,0 +1,13 @@
+document.getElementById("titulo").innerHTML = "Menú Principal";
+document.getElementById("descripcion").innerHTML = "Selecciona un ejercicio para mostrarlo aquí 👇";
+document.getElementById("ejercicio1").innerHTML = "Ejercicio 1 - Datos personales";
+document.getElementById("ejercicio2").innerHTML = "Ejercicio 2 - Comidas favoritas";
+document.getElementById("ejercicio3").innerHTML = "Ejercicio 3 - Películas favoritas";
+document.getElementById("ejercicio4").innerHTML = "Ejercicio 4 - Música favorita";
+document.getElementById("ejercicio5").innerHTML = "Ejercicio 5 - Número mostrado";
+document.getElementById("ejercicio6").innerHTML = "Ejercicio 6 - Cadenas concatenadas";
+document.getElementById("ejercicio7").innerHTML = "Ejercicio 7 - Operación numérica";
+document.getElementById("ejercicio8").innerHTML = "Ejercicio 8 - Tamaño del texto";
+document.getElementById("ejercicio9").innerHTML = "Ejercicio 9 - Lista verde";
+document.getElementById("ejercicio10").innerHTML = "Ejercicio 10 - Personas más ricas";
+document.getElementById("autor").innerHTML = "Desarrollado por: <strong>Cristian Aranda</strong> © 2025";
